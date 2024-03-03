@@ -1,5 +1,6 @@
 ### Hi there 👋
-How to reach me: IG : @wahyujrs_19 || LinkedIn : Wahyu J. R. Sianipar || WA : 085260155096
+- 📫 How to reach me: IG : @wahyujrs_19 || LinkedIn : Wahyu J. R. Sianipar || WA : 085260155096
+- 😄 Pronouns: He/Him
 <!--
 **whyou19/whyou19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

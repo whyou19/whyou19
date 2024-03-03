@@ -1,4 +1,5 @@
 ### Hi there 👋
+- :shushing_face: :deaf_person: My name is Wahyu Jhon Riadi Sianipar
 - 📫 How to reach me: IG : @wahyujrs_19 || LinkedIn : Wahyu J. R. Sianipar || WA : 085260155096
 - 😄 Pronouns: He/Him
 <!--

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas | Regular Expression</title>
+    <link rel="stylesheet" href="../tailwind-components/style/output.css">
+</head>
+<body class="bg-gray-300"> 
+
+ 
+<div class="flex flex-col flex-wrap text-center items-center">
+    <div class="p-5 flex flex-wrap mx-4 gap-3 mb-7">
+        <!-- Nama Lengkap -->
+        <div class="flex flex-col w-80">
+            <label for="fullName">Nama Lengkap</label><br>
+            <input class="border-solid rounded border-2 border-black" id="fullName" type="text" placeholder="Masukkan nama lengkap Anda"/>
+            <p class="text-xs"><span id="validation-text-FN">Validation message.</span></p>
+        </div>
+        
+        <!-- NIM -->
+        <div class="flex flex-col w-80">
+            <label for="NIM">Nomor Induk Mahasiswa</label><br>
+            <input class="border-solid rounded border-2 border-black " id="NIM" type="text" placeholder="Masukkan NIM Anda"/>
+            <p class="text-xs"><span id="validation-text-nim">Validation message.</span></p>
+        </div>
+        
+        <!-- Email -->
+        <div class="flex flex-col w-80">
+            <label for="regexInputEmail">Email</label><br>
+            <input class="border-solid rounded border-2 border-black " id="regexInputEmail" type="text" placeholder="Masukkan Email Anda"/>
+            <p class="text-xs"><span id="validation-text-Email">Validation message.</span></p>
+        </div>
+
+        <!-- noTelp -->
+        <div class="flex flex-col w-80">
+            <label for="regexInputNo">No. Telp</label><br>
+            <input class="border-solid rounded border-2 border-black " id="regexInputNo" type="text" placeholder="Masukkan input untuk regex dua"/>
+            <p class="text-xs"><span id="validation-text-No">Validation message.</span></p>
+        </div>
+
+        <!-- Password -->
+        <div class="flex flex-col w-80">
+            <label for="regexInputPass">Password Baru</label><br>
+            <input class="border-solid rounded border-2 border-black " id="regexInputPass" type="password" placeholder="Masukkan Password baru Anda"/>
+            <p class="text-xs"><span id="validation-text-Pass">Validation message.</span></p>
+        </div>
+
+    </div>
+</div>
+ 
+    <script src="../regular-expressions/scripts.js"></script>
+
+</body>
+</html>
